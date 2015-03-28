@@ -1,8 +1,13 @@
 ProjektREDv7Textures Changelog
 
+   28.03.2015
+   EnderIO add combustionGenModel and vatModel
+	  DirkSch
+
    27.03.2015
       EnderIO Gui Change Farmstation and Vacumchest  
-              Wildget name change	  
+              Wildget name change
+	  DirkSch
  
 Pack Version 4.0
    27.12.2014
@@ -38,3 +43,4 @@ Pack Version 4.0
   25.11.2014
    -Überflüssige Texturen entfernt (https://github.com/BakermanLP/ModpackProjectRETv7Textures/commit/f2fd70c653b815461d16bc012a2707b846d46c65) -Alheimerjung
    -alle Texturen die in https://github.com/Soartex-Modded/Modded-1.7.x vorhanden sind gelöscht -Alheimerjung
+
