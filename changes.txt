@@ -1,5 +1,9 @@
 ProjektREDv7Textures Changelog
 
+   03.04.2015
+   Some textures for Agricraft
+      DirkSch
+
    28.03.2015
    EnderIO add combustionGenModel and vatModel
 	  DirkSch
