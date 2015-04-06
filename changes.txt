@@ -1,5 +1,9 @@
 ProjektREDv7Textures Changelog
-
+   
+   06.04.2015
+   add Extracells missing fluid storages and blockcontainer.
+       DirkSch
+   
    03.04.2015
    Some textures for Agricraft
       DirkSch
